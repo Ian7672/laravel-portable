@@ -102,7 +102,7 @@ These packages are pre-installed and ready to use for date/time handling in the 
 2. Navigate to the Laravel CLI directory:
 
    ```bash
-   cd D:\upload-github\portable\fix\laravel_windows_5.14.2-portable-stable\Composer\Composer\vendor\bin
+   cd laravel_windows_5.14.2-portable-stable\Composer\Composer\vendor\bin
    ```
 
 3. Run any Laravel command:
