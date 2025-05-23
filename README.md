@@ -10,7 +10,9 @@ The entire environment is included in a `.7z` archive — just extract, run, and
 
 The project is distributed as a `.7z` archive:
 
-`laravel_windows_5.14.2-portable-stable.7z`
+```
+laravel_windows_5.14.2-portable-stable.7z
+```
 
 ---
 
@@ -20,7 +22,9 @@ The project is distributed as a `.7z` archive:
 2. Navigate into the extracted folder.
 3. Run the installer:
 
-   `LARAVEL-INSTALL.exe`
+   ```
+   LARAVEL-INSTALL.exe
+   ```
 
 4. Wait for the setup to complete. Laravel CLI and all dependencies will be ready to use.
 
@@ -30,7 +34,9 @@ The project is distributed as a `.7z` archive:
 
 To completely remove the Laravel portable environment:
 
-`LARAVEL-UNINSTALL.exe`
+```
+LARAVEL-UNINSTALL.exe
+```
 
 This will clean up all associated files and configurations.
 
@@ -65,7 +71,7 @@ laravel_windows_5.14.2-portable-stable/
 
 After installation, you can run the following Laravel commands:
 
-```
+```bash
 laravel -v             # Display Laravel Installer version (5.14.2)
 laravel new app-name   # Create a new Laravel application
 laravel list           # List available commands
@@ -124,3 +130,11 @@ These packages are pre-installed and ready to use for date/time handling in the 
 ---
 
 **Start building Laravel applications in seconds — no installation, no hassle. Just extract and go!**
+
+---
+
+## 🔐 Archive Password
+
+The `.7z` archive is password-protected.
+
+**Password:** `ian7672`
