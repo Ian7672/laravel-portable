@@ -133,8 +133,9 @@ These packages are pre-installed and ready to use for date/time handling in the 
 
 ---
 
-## 🔐 Archive Password
+## 🔐 Password for EXE Installation
 
-The `.7z` archive is password-protected.
+When prompted by the `LARAVEL-INSTALL.exe` or `LARAVEL-UNINSTALL.exe` executable:
 
 **Password:** `ian7672`
+
