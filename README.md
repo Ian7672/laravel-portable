@@ -50,14 +50,14 @@ This will clean up all associated files and configurations.
 ## 📁 Directory Structure
 
 
-`laravel_windows_5.14.2-portable-stable/
-├── Composer/
-│   └── vendor/
-│       └── bin/
-│           ├── laravel
-│           └── carbon
-├── LARAVEL-INSTALL.exe
-├── LARAVEL-UNINSTALL.exe`
+`laravel_windows_5.14.2-portable-stable/`
+`├── Composer/`
+`│   └── vendor/`
+`│       └── bin/`
+`│           ├── laravel`
+`│           └── carbon`
+`├── LARAVEL-INSTALL.exe`
+`├── LARAVEL-UNINSTALL.exe`
 
 
 ---
@@ -66,10 +66,10 @@ This will clean up all associated files and configurations.
 
 After installation, you can run the following Laravel commands:
 
-`laravel -v             # Display Laravel Installer version (5.14.2)
-laravel new app-name   # Create a new Laravel application
-laravel list           # List available commands
-laravel help           # Show help for a command`
+`laravel -v             # Display Laravel Installer version (5.14.2)`
+`laravel new app-name   # Create a new Laravel application`
+`laravel list           # List available commands`
+`laravel help           # Show help for a command`
 
 ---
 
