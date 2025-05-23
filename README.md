@@ -10,9 +10,7 @@ The entire environment is included in a `.7z` archive — just extract, run, and
 
 The project is distributed as a `.7z` archive:
 
-```
-laravel_windows_5.14.2-portable-stable.7z
-```
+`laravel_windows_5.14.2-portable-stable.7z`
 
 ---
 
@@ -22,9 +20,7 @@ laravel_windows_5.14.2-portable-stable.7z
 2. Navigate into the extracted folder.
 3. Run the installer:
 
-   ```
-   LARAVEL-INSTALL.exe
-   ```
+   `LARAVEL-INSTALL.exe`
 
 4. Wait for the setup to complete. Laravel CLI and all dependencies will be ready to use.
 
@@ -34,9 +30,8 @@ laravel_windows_5.14.2-portable-stable.7z
 
 To completely remove the Laravel portable environment:
 
-```
-LARAVEL-UNINSTALL.exe
-```
+
+`LARAVEL-UNINSTALL.exe`
 
 This will clean up all associated files and configurations.
 
@@ -54,17 +49,16 @@ This will clean up all associated files and configurations.
 
 ## 📁 Directory Structure
 
-`
-laravel_windows_5.14.2-portable-stable/
+
+`laravel_windows_5.14.2-portable-stable/
 ├── Composer/
 │   └── vendor/
 │       └── bin/
 │           ├── laravel
 │           └── carbon
 ├── LARAVEL-INSTALL.exe
-├── LARAVEL-UNINSTALL.exe
+├── LARAVEL-UNINSTALL.exe`
 
-`
 
 ---
 
@@ -72,12 +66,10 @@ laravel_windows_5.14.2-portable-stable/
 
 After installation, you can run the following Laravel commands:
 
-```bash
-laravel -v             # Display Laravel Installer version (5.14.2)
+`laravel -v             # Display Laravel Installer version (5.14.2)
 laravel new app-name   # Create a new Laravel application
 laravel list           # List available commands
-laravel help           # Show help for a command
-```
+laravel help           # Show help for a command`
 
 ---
 
