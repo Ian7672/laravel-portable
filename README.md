@@ -52,21 +52,6 @@ This will clean up all associated files and configurations.
 
 ---
 
-## 📁 Directory Structure
-
-```
-laravel_windows_5.14.2-portable-stable/
-├── Composer/
-│   └── vendor/
-│       └── bin/
-│           ├── laravel
-│           └── carbon
-├── LARAVEL-INSTALL.exe
-├── LARAVEL-UNINSTALL.exe
-```
-
----
-
 ## 🧩 Laravel CLI Usage
 
 After installation, you can run the following Laravel commands:
