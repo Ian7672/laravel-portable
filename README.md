@@ -54,7 +54,7 @@ This will clean up all associated files and configurations.
 
 ## 📁 Directory Structure
 
-```
+`
 laravel_windows_5.14.2-portable-stable/
 ├── Composer/
 │   └── vendor/
@@ -64,7 +64,7 @@ laravel_windows_5.14.2-portable-stable/
 ├── LARAVEL-INSTALL.exe
 ├── LARAVEL-UNINSTALL.exe
 
-```
+`
 
 ---
 
