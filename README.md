@@ -63,8 +63,7 @@ laravel_windows_5.14.2-portable-stable/
 │           └── carbon
 ├── LARAVEL-INSTALL.exe
 ├── LARAVEL-UNINSTALL.exe
-├── php/ (optional, portable PHP)
-├── README.md
+
 ```
 
 ---
